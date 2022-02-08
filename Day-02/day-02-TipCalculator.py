@@ -1,5 +1,5 @@
 #If the bill was $150.00, split between 5 people, with 12% tip. 
-print("Welcome to the tip calculator")
+print("Welcome to the tip calculator!")
 bill = input("What was the total bill? $")
 tip_percent = input("What percentage tip would you like to give? 10%, 12% or 15%? ")
 no_of_people = input("How many people to split the bill? ")
