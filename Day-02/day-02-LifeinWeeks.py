@@ -1,5 +1,5 @@
 # input the user's age
-age = input("What is your current age?")
+age = input("What is your current age? ")
 
 #the total age is assumed to be 90 years
 t_age = 90
