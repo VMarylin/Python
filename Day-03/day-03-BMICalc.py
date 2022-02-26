@@ -1,9 +1,8 @@
 height = float(input("enter your height in m: "))
 weight = float(input("enter your weight in kg: "))
 
-new_height = float(height)
-new_weight = float(weight)
-BMI = round(new_weight / (new_height**2))
+
+BMI = round(weight / height**2)
 
 #Under 18.5 they are underweight
 if BMI <= 18.5:
